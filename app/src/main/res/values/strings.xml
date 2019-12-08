@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dogs</string>
+
+    <string name="hello_blank_fragment">Hello fragment</string>
+    <string name="fragment_list">Fragment list</string>
+    <string name="fragment_detail">Fragment detail</string>
+    <string name="error_loading_data">Error loading data</string>
+</resources>
